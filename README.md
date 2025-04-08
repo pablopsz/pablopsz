@@ -38,6 +38,7 @@ Atualmente estou envolvido em diversos projetos que abrangem análise de dados, 
 - [**Avaliação de Risco de Crédito**](https://github.com/pablopsz/Avaliacao-de-Risco-de-Credito/blob/main/Avalia%C3%A7%C3%A3o_de_Risco_de_Cr%C3%A9dito.ipynb)
 - [**Análise de Carros Seminovos**](https://github.com/pablopsz/analise_seminovos/)
 - [**Sistema de Recomendação de Filmes**](https://github.com/pablopsz/Sistema-de-Recomendacao-de-Filmes/blob/main/Sistema_de_Recomenda%C3%A7%C3%A3o_de_Filmes.ipynb)
+- [**Análise de Requisitos de Vagas de Dados**](https://github.com/pablopsz/requisitos_dados)
 
 
 ## 🎯 Objetivos
